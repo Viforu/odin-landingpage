@@ -13,6 +13,10 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 10px;
+    margin-bottom: 100px;
 }
 
 .logo {
@@ -27,9 +31,37 @@ ul {
     list-style: none;
 }
 
-
 a {
     text-decoration: none;
     color: #E5E7EB;
     font-size: 18px;
 }
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 200px;
+    
+}
+
+.hero-left {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+}
+
+.hero-right img {
+    max-height: 250px;
+}
+
+.title {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: bolder;
+}
+
+.titlesub {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
