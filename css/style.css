@@ -127,3 +127,11 @@ a {
     font-weight: bolder;
     align-self: flex-end;
 }
+.section4{
+    padding:55px 88px;
+}
+
+.call-action {
+    background-color: #3882f6;
+    border-radius: 4px;
+}
