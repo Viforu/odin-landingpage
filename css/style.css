@@ -128,10 +128,27 @@ a {
     align-self: flex-end;
 }
 .section4{
-    padding:55px 88px;
+    padding:88px 200px;
 }
 
 .call-action {
     background-color: #3882f6;
     border-radius: 4px;
+    color: #F9FAF8;
+    display: flex;
+    padding: 33px 77px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+button {
+    border-radius: 10px;
+    background-color: #3882f6;
+    color: #E5E7EB;
+    font-weight: bold;
+    padding: 6px 25px;
+}
+
+h5{
+    font-size: 30px;
 }
