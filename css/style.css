@@ -16,7 +16,7 @@ body {
     margin-left: 200px;
     margin-right: 200px;
     padding: 10px;
-    margin-bottom: 100px;
+    margin-bottom: 70px;
 }
 
 .logo {
@@ -40,8 +40,8 @@ a {
 .hero {
     display: flex;
     justify-content: space-between;
-    margin: 100px 200px;
-    padding: 10px;
+    margin: 70px 200px;
+    padding-bottom: 120px;
 }
 
 .hero-left {
