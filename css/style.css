@@ -152,3 +152,12 @@ button {
 h5{
     font-size: 30px;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    align-items: flex-end;
+    padding: 20px;
+    font-size: 9;
+    text-align: center;
+}
